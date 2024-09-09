@@ -84,7 +84,6 @@ class Locale(Enum):
     FR = "fr"
     HU = "hu"
     HR = "hr"
-    AR="ar"
     IS = "is"
     IT = "it"
     JA = "ja"
