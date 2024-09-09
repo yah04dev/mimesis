@@ -93,7 +93,7 @@ Patches and Suggestions
 -  Florian Kroiß `(Wooza)`_
 -  Han Wang `(freddiewanah)`_
 -  David Gorup `(CerealKiller0807)`_
-
+-  Yahia .A benamrouche `(yah04dev)`_
 
 .. _(lk-geimfari): https://github.com/lk-geimfari
 .. _(sobolevn): https://github.com/sobolevn
@@ -164,3 +164,4 @@ Patches and Suggestions
 .. _(Wooza): https://github.com/Wooza
 .. _(freddiewanah): https://github.com/freddiewanah
 .. _(CerealKiller0807): https://github.com/CerealKiller0807
+.. _(yah04dev): https://github.com/yah04dev
